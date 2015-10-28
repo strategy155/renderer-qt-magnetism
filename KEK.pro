@@ -1,7 +1,6 @@
 QT          += widgets
 
 HEADERS += \
-    openglwindow.h \
     glwidget.h \
     helper.h \
     widget.h \
@@ -9,7 +8,6 @@ HEADERS += \
 
 SOURCES += \
     main.cpp \
-    openglwindow.cpp \
     glwidget.cpp \
     helper.cpp \
     widget.cpp \
